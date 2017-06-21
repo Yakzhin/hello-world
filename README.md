@@ -1,3 +1,3 @@
 # hello-world
 тестовый репозиторий
-Изучаю Github
+Изучаю Github.
